@@ -1,0 +1,8 @@
+{
+  "name": "Tex-Ed",
+  "short_name": "TexEd",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Super awesome progressive text editor"
+}
